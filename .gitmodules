@@ -1,0 +1,9 @@
+[submodule "Vulkan-Docs"]
+	path = Vulkan-Docs
+	url = https://github.com/KhronosGroup/Vulkan-Docs.git
+[submodule "Vulkan"]
+	path = Vulkan
+	url = https://github.com/SaschaWillems/Vulkan.git
+[submodule "vkcpp"]
+	path = vkcpp
+	url = https://github.com/nvpro-pipeline/vkcpp.git
