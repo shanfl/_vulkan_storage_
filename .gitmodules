@@ -10,3 +10,6 @@
 [submodule "IntroductionToVulkan"]
 	path = IntroductionToVulkan
 	url = https://github.com/GameTechDev/IntroductionToVulkan.git
+[submodule "android-vulkan-tutorials"]
+	path = android-vulkan-tutorials
+	url = https://github.com/googlesamples/android-vulkan-tutorials.git
