@@ -13,3 +13,6 @@
 [submodule "android-vulkan-tutorials"]
 	path = android-vulkan-tutorials
 	url = https://github.com/googlesamples/android-vulkan-tutorials.git
+[submodule "vulkan-basic-samples"]
+	path = vulkan-basic-samples
+	url = https://github.com/googlesamples/vulkan-basic-samples.git
